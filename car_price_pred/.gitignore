@@ -19,3 +19,4 @@ Thumbs.db
 
 # VS Code settings
 .vscode/
+data_preprocessing.ipynb
